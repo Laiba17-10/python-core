@@ -5,6 +5,7 @@ students = {
     "Fatima": 65,
     "Hassan": 88
 }
+
 for name, marks in students.items():
     if marks >= 90:
         grade = "A"
