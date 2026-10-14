@@ -1,0 +1,13 @@
+text = "Python Programming"
+print("Original String:", text)
+print("First Character:", text[0])
+print("Sixth Character:", text[5])
+print("Last Character:", text[-1])
+print("First 6 Characters:", text[0:6])
+print("From Index 7:", text[7:])
+print("From Start to Index 5:", text[:6])
+print("Every 2nd Character:", text[::2])
+print("Reverse String:", text[::-1])
+print("Last 6 Characters:", text[-6:])
+print("Characters -10 to -4:", text[-10:-4])
+print("Program Finished Successfully!")
